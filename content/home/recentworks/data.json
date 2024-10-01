@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Educational Landscape of Aguascalientes",
+        "image": "images/schools.png",
+        "url": "https://cristinaavenzor.github.io/EduMap_Aguascalientes/",
+        "items": [
+            {
+                "name": "Go to microsite",
+                "url": "https://cristinaavenzor.github.io/EduMap_Aguascalientes/"
+            }
+        ]
+    }
+]
